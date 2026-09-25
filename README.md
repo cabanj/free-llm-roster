@@ -7,7 +7,7 @@ A daily-verified directory of **LLM APIs you can use for free right now** — co
 
 [![roster](https://img.shields.io/badge/models-24-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-09-25-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**24 free models** across **3 sources**, last verified 2026-09-25 21:48 UTC.
+**24 free models** across **3 sources**. Last roster change 2026-09-25 21:31 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
