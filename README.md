@@ -20,6 +20,7 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 <!-- generated table below -->
 | Model | Name | Context | Modalities | Tools | Free via |
 | --- | --- | --- | --- | --- | --- |
+| `meituan/longcat-2.5-preview` | Meituan: LongCat 2.5 Preview | 1048k | text+image->text | yes | Nous Portal |
 | [`stealth/space-bunny-alpha`](https://openrouter.ai/stealth/space-bunny-alpha) | Space Bunny Alpha | 1000k | text+image+video->text | yes | OpenRouter, Nous Portal |
 | `muse-spark-1.3-contributor` | muse-spark-1.3-contributor-free | 1048k | text | — | OpenCode Zen |
 | `nemotron-3-ultra` | nemotron-3-ultra-free | 131k | text | — | OpenCode Zen |
@@ -30,7 +31,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | [`thinkingmachines/inkling`](https://openrouter.ai/thinkingmachines/inkling) | Thinking Machines: Inkling (free) | 1048k | text+image+audio->text | yes | OpenRouter |
 | [`thinkingmachines/inkling-small`](https://openrouter.ai/thinkingmachines/inkling-small) | Thinking Machines: Inkling Small (free) | 1048k | text+image+audio->text | yes | OpenRouter |
 | `meituan/longcat-2.0` | Meituan: LongCat 2.0 | 1048k | text->text | yes | Nous Portal |
-| `meituan/longcat-2.5-preview` | Meituan: LongCat 2.5 Preview | 1048k | text+image->text | yes | Nous Portal |
 | [`poolside/laguna-s-2.1`](https://openrouter.ai/poolside/laguna-s-2.1) | Poolside: Laguna S 2.1 (free) | 262k | text->text | yes | OpenRouter, Nous Portal |
 | [`poolside/laguna-xs-2.1`](https://openrouter.ai/poolside/laguna-xs-2.1) | Poolside: Laguna XS 2.1 (free) | 262k | text->text | yes | OpenRouter, Nous Portal |
 | `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash | 262k | text+image+video->text | yes | Nous Portal |
