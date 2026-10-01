@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-25-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-09-28-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-25-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-01-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**25 free models** across **3 sources**. Last roster change 2026-09-28 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**25 free models** across **3 sources**. Last roster change 2026-10-01 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -24,6 +24,7 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | [`stealth/space-bunny-alpha`](https://openrouter.ai/stealth/space-bunny-alpha) | Space Bunny Alpha | 1000k | text+image+video->text | yes | OpenRouter, Nous Portal |
 | `muse-spark-1.3-contributor` | muse-spark-1.3-contributor-free | 1048k | text | — | OpenCode Zen |
 | `nemotron-3-ultra` | nemotron-3-ultra-free | 131k | text | — | OpenCode Zen |
+| [`apodex/apodex-1.1-mini`](https://openrouter.ai/apodex/apodex-1.1-mini) | Apodex: Apodex 1.1 Mini (free) | 262k | text->text | yes | OpenRouter |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
 | [`liquid/lfm-2.5-2.6b`](https://openrouter.ai/liquid/lfm-2.5-2.6b) | LiquidAI: LFM2.5-2.6B (free) | 65k | text->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning`](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning) | NVIDIA: Nemotron 3 Nano Omni (free) | 256k | text+image+audio+video->text | yes | OpenRouter |
@@ -42,7 +43,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | [`inclusionai/ling-3.0-flash-sante`](https://openrouter.ai/inclusionai/ling-3.0-flash-sante) | inclusionAI: Ling 3.0 Flash Sante (free) | 262k | text->text | yes | OpenRouter, Nous Portal |
 | `nemotron-3.5-lightning` | nemotron-3.5-lightning-free | 262k | text | — | OpenCode Zen |
 | [`nvidia/nemotron-3.5-lightning`](https://openrouter.ai/nvidia/nemotron-3.5-lightning) | NVIDIA: Nemotron 3.5 Lightning (free) | 1000k | text->text | yes | OpenRouter |
-| `upstage/solar-pro4` | Upstage: Solar Pro 4 | 524k | text->text | yes | Nous Portal |
 | [`dots-studio/dots-3-note-preview`](https://openrouter.ai/dots-studio/dots-3-note-preview) | Dots Studio: Dots3-Note Preview (free) | 512k | text+image->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-super-120b-a12b`](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b) | NVIDIA: Nemotron 3 Super (free) | 262k | text->text | yes | OpenRouter |
 
@@ -50,12 +50,13 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 
 | Source | Models | What counts as free |
 | --- | --- | --- |
-| OpenRouter | 16 | aggregated free tiers, `:free` variant |
-| Nous Portal | 9 | direct from Nous Research |
+| OpenRouter | 17 | aggregated free tiers, `:free` variant |
+| Nous Portal | 8 | direct from Nous Research |
 | OpenCode Zen | 4 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-10-01` — **+1** added, **−1** removed
 - `2026-09-28` — **+1** added
 - `2026-09-25` — **−1** removed
 - `2026-09-25` — **−2** removed
@@ -63,7 +64,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-09-20` — **−1** removed
 - `2026-09-18` — **+1** added, **−1** removed
 - `2026-09-17` — **+1** added
-- `2026-09-16` — **+1** added
 
 ## Using this
 
