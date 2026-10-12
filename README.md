@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-26-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-10-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-25-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-12-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**26 free models** across **3 sources**. Last roster change 2026-10-10 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**25 free models** across **3 sources**. Last roster change 2026-10-12 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -24,7 +24,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | `meituan/longcat-2.5-preview` | Meituan: LongCat 2.5 Preview | 1048k | text+image->text | yes | Nous Portal |
 | `stealth/missingno` | MissingNo | 262k | text->text | yes | Nous Portal |
 | `muse-spark-1.3-contributor` | muse-spark-1.3-contributor-free | 1048k | text | — | OpenCode Zen |
-| `nemotron-3-ultra` | nemotron-3-ultra-free | 131k | text | — | OpenCode Zen |
 | [`apodex/apodex-1.1-mini`](https://openrouter.ai/apodex/apodex-1.1-mini) | Apodex: Apodex 1.1 Mini (free) | 262k | text->text | yes | OpenRouter |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
 | [`liquid/lfm-2.5-2.6b`](https://openrouter.ai/liquid/lfm-2.5-2.6b) | LiquidAI: LFM2.5-2.6B (free) | 65k | text->text | yes | OpenRouter |
@@ -53,10 +52,11 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | --- | --- | --- |
 | OpenRouter | 15 | aggregated free tiers, `:free` variant |
 | Nous Portal | 11 | direct from Nous Research |
-| OpenCode Zen | 3 | curated gateway, some contributor-gated |
+| OpenCode Zen | 2 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-10-12` — **−1** removed
 - `2026-10-10` — **+1** added
 - `2026-10-08` — **+1** added
 - `2026-10-07` — **−1** removed
@@ -64,7 +64,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-10-02` — **+1** added
 - `2026-10-01` — **+1** added, **−1** removed
 - `2026-09-28` — **+1** added
-- `2026-09-25` — **−1** removed
 
 ## Using this
 
