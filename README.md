@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-23-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-19-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-22-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-20-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**23 free models** across **3 sources**. Last roster change 2026-10-19 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**22 free models** across **3 sources**. Last roster change 2026-10-20 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -39,7 +39,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | `upstage/solar-mini4` | Upstage: Solar Mini 4 | 524k | text->text | yes | Nous Portal |
 | `nemotron-3.5-lightning` | nemotron-3.5-lightning-free | 262k | text | — | OpenCode Zen |
 | [`nvidia/nemotron-3.5-lightning`](https://openrouter.ai/nvidia/nemotron-3.5-lightning) | NVIDIA: Nemotron 3.5 Lightning (free) | 1000k | text->text | yes | OpenRouter |
-| `stepfun/step-5-preview` | StepFun: Step 5 Preview | 1048k | text+image+video->text | yes | Nous Portal |
 | [`dots-studio/dots-3-note-preview`](https://openrouter.ai/dots-studio/dots-3-note-preview) | Dots Studio: Dots3-Note Preview (free) | 512k | text+image->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-super-120b-a12b`](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b) | NVIDIA: Nemotron 3 Super (free) | 262k | text->text | yes | OpenRouter |
 | [`xingchen-agi/xing4.0-29b-a4b`](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b) | XingChen: Xing4.0 29B A4B (free) | 262k | text->text | yes | OpenRouter |
@@ -49,11 +48,12 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | Source | Models | What counts as free |
 | --- | --- | --- |
 | OpenRouter | 16 | aggregated free tiers, `:free` variant |
-| Nous Portal | 8 | direct from Nous Research |
+| Nous Portal | 7 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-10-20` — **−1** removed
 - `2026-10-19` — **+1** added
 - `2026-10-17` — **+2** added, **−2** removed
 - `2026-10-15` — **+1** added
@@ -61,7 +61,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-10-13` — **−1** removed
 - `2026-10-12` — **−1** removed
 - `2026-10-10` — **+1** added
-- `2026-10-08` — **+1** added
 
 ## Using this
 
