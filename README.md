@@ -31,7 +31,7 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | `meituan/longcat-2.0` | Meituan: LongCat 2.0 | 1048k | text->text | yes | Nous Portal |
 | [`poolside/laguna-s-2.1`](https://openrouter.ai/poolside/laguna-s-2.1) | Poolside: Laguna S 2.1 (free) | 262k | text->text | yes | OpenRouter, Nous Portal |
 | [`poolside/laguna-xs-2.1`](https://openrouter.ai/poolside/laguna-xs-2.1) | Poolside: Laguna XS 2.1 (free) | 262k | text->text | yes | OpenRouter, Nous Portal |
-| `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash | 256k | text+image+video->text | yes | Nous Portal |
+| `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash | 262k | text+image+video->text | yes | Nous Portal |
 | [`cohere/north-mini-code`](https://openrouter.ai/cohere/north-mini-code) | Cohere: North Mini Code (free) | 256k | text->text | yes | OpenRouter |
 | [`recursive/flint-v1.0`](https://openrouter.ai/recursive/flint-v1.0) | Recursive: Flint (free) | 262k | text->text | yes | OpenRouter |
 | [`google/gemma-4-26b-a4b-it`](https://openrouter.ai/google/gemma-4-26b-a4b-it) | Google: Gemma 4 26B A4B  (free) | 262k | text+image+video->text | yes | OpenRouter |
