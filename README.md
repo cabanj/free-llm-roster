@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-18-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-10-31-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-17-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-03-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**18 free models** across **3 sources**. Last roster change 2026-10-31 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**17 free models** across **3 sources**. Last roster change 2026-11-03 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -20,7 +20,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 <!-- generated table below -->
 | Model | Name | Context | Modalities | Tools | Free via |
 | --- | --- | --- | --- | --- | --- |
-| `ornith/ornith-1.5-122b` | Ornith: Ornith 1.5 122B | 262k | text+image->text | yes | Nous Portal |
 | `reflection/beam-1.0-501b-a23b` | Reflection: Beam 1.0 501B A23B | 262k | text->text | yes | Nous Portal |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
 | [`liquid/lfm-2.5-2.6b`](https://openrouter.ai/liquid/lfm-2.5-2.6b) | LiquidAI: LFM2.5-2.6B (free) | 65k | text->text | yes | OpenRouter |
@@ -44,11 +43,12 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | Source | Models | What counts as free |
 | --- | --- | --- |
 | OpenRouter | 13 | aggregated free tiers, `:free` variant |
-| Nous Portal | 4 | direct from Nous Research |
+| Nous Portal | 3 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-11-03` — **−1** removed
 - `2026-10-31` — **−2** removed
 - `2026-10-29` — **−1** removed
 - `2026-10-27` — **−2** removed
@@ -56,7 +56,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-10-21` — **+1** added
 - `2026-10-20` — **−1** removed
 - `2026-10-19` — **+1** added
-- `2026-10-17` — **+2** added, **−2** removed
 
 ## Using this
 
