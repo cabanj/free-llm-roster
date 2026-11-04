@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-17-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-03-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-17-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-04-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**17 free models** across **3 sources**. Last roster change 2026-11-03 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**17 free models** across **3 sources**. Last roster change 2026-11-04 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -20,13 +20,13 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 <!-- generated table below -->
 | Model | Name | Context | Modalities | Tools | Free via |
 | --- | --- | --- | --- | --- | --- |
+| `meituan/longcat-2.5` | Meituan: LongCat 2.5 | 1048k | text+image->text | yes | Nous Portal |
 | `reflection/beam-1.0-501b-a23b` | Reflection: Beam 1.0 501B A23B | 262k | text->text | yes | Nous Portal |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
 | [`liquid/lfm-2.5-2.6b`](https://openrouter.ai/liquid/lfm-2.5-2.6b) | LiquidAI: LFM2.5-2.6B (free) | 65k | text->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning`](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning) | NVIDIA: Nemotron 3 Nano Omni (free) | 256k | text+image+audio+video->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-ultra-550b-a55b`](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b) | NVIDIA: Nemotron 3 Ultra (free) | 1000k | text->text | yes | OpenRouter |
-| [`thinkingmachines/inkling`](https://openrouter.ai/thinkingmachines/inkling) | Thinking Machines: Inkling (free) | 1048k | text+image+audio->text | yes | OpenRouter |
-| [`thinkingmachines/inkling-small`](https://openrouter.ai/thinkingmachines/inkling-small) | Thinking Machines: Inkling Small (free) | 1048k | text+image+audio->text | yes | OpenRouter |
+| [`stealth/crouton-alpha`](https://openrouter.ai/stealth/crouton-alpha) | Crouton Alpha | 1048k | text+image+file+audio+video->text | yes | OpenRouter, Nous Portal |
 | `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash | 262k | text+image+video->text | yes | Nous Portal |
 | [`cohere/north-mini-code`](https://openrouter.ai/cohere/north-mini-code) | Cohere: North Mini Code (free) | 256k | text->text | yes | OpenRouter |
 | [`recursive/flint-v1.0`](https://openrouter.ai/recursive/flint-v1.0) | Recursive: Flint (free) | 262k | text->text | yes | OpenRouter |
@@ -42,12 +42,13 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 
 | Source | Models | What counts as free |
 | --- | --- | --- |
-| OpenRouter | 13 | aggregated free tiers, `:free` variant |
-| Nous Portal | 3 | direct from Nous Research |
+| OpenRouter | 12 | aggregated free tiers, `:free` variant |
+| Nous Portal | 5 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-11-04` — **+2** added, **−2** removed
 - `2026-11-03` — **−1** removed
 - `2026-10-31` — **−2** removed
 - `2026-10-29` — **−1** removed
@@ -55,7 +56,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-10-22` — **+1** added, **−1** removed
 - `2026-10-21` — **+1** added
 - `2026-10-20` — **−1** removed
-- `2026-10-19` — **+1** added
 
 ## Using this
 
