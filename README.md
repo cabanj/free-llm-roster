@@ -20,7 +20,7 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 <!-- generated table below -->
 | Model | Name | Context | Modalities | Tools | Free via |
 | --- | --- | --- | --- | --- | --- |
-| `meituan/longcat-2.5` | Meituan: LongCat 2.5 | 1048k | text+image->text | yes | Nous Portal |
+| `meituan/longcat-2.5` | LongCat-2.5:Free | 1048k | text+image->text | yes | Nous Portal |
 | `reflection/beam-1.0-501b-a23b` | Reflection: Beam 1.0 501B A23B | 262k | text->text | yes | Nous Portal |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
 | [`liquid/lfm-2.5-2.6b`](https://openrouter.ai/liquid/lfm-2.5-2.6b) | LiquidAI: LFM2.5-2.6B (free) | 65k | text->text | yes | OpenRouter |
