@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-19-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-19-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-18-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-20-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**19 free models** across **3 sources**. Last roster change 2026-11-19 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**18 free models** across **3 sources**. Last roster change 2026-11-20 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -28,7 +28,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | [`nvidia/nemotron-3-ultra-550b-a55b`](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b) | NVIDIA: Nemotron 3 Ultra (free) | 1000k | text->text | yes | OpenRouter |
 | `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash | 262k | text+image+video->text | yes | Nous Portal |
 | [`baidu/ernie-5.5-flash-preview`](https://openrouter.ai/baidu/ernie-5.5-flash-preview) | Baidu: ERNIE-5.5-Flash-Preview (free) | 1024k | text->text | yes | OpenRouter |
-| [`cohere/north-mini-code`](https://openrouter.ai/cohere/north-mini-code) | Cohere: North Mini Code (free) | 256k | text->text | yes | OpenRouter |
 | [`particle-ai/particle-1`](https://openrouter.ai/particle-ai/particle-1) | Particle AI: Particle-1 (free) | 1048k | text+image->text | yes | OpenRouter |
 | [`recursive/flint-v1.0`](https://openrouter.ai/recursive/flint-v1.0) | Recursive: Flint (free) | 262k | text->text | yes | OpenRouter |
 | [`google/gemma-4-26b-a4b-it`](https://openrouter.ai/google/gemma-4-26b-a4b-it) | Google: Gemma 4 26B A4B  (free) | 262k | text+image+video->text | yes | OpenRouter |
@@ -44,12 +43,13 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 
 | Source | Models | What counts as free |
 | --- | --- | --- |
-| OpenRouter | 13 | aggregated free tiers, `:free` variant |
+| OpenRouter | 12 | aggregated free tiers, `:free` variant |
 | Nous Portal | 5 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-11-20` — **−1** removed
 - `2026-11-19` — **+1** added, **−1** removed
 - `2026-11-17` — **+1** added
 - `2026-11-14` — **+1** added
@@ -57,7 +57,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-11-11` — **+1** added, **−1** removed
 - `2026-11-10` — **+1** added, **−2** removed
 - `2026-11-07` — **+1** added
-- `2026-11-04` — **+2** added, **−2** removed
 
 ## Using this
 
