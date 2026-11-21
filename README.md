@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-18-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-20-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-17-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-21-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**18 free models** across **3 sources**. Last roster change 2026-11-20 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**17 free models** across **3 sources**. Last roster change 2026-11-21 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -37,18 +37,18 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | `nemotron-3.5-lightning` | nemotron-3.5-lightning-free | 262k | text | — | OpenCode Zen |
 | [`liquid/lfm-3-1.7b`](https://openrouter.ai/liquid/lfm-3-1.7b) | LiquidAI: LFM3-1.7B (free) | 262k | text->text | yes | OpenRouter |
 | [`nvidia/nemotron-3.5-lightning`](https://openrouter.ai/nvidia/nemotron-3.5-lightning) | NVIDIA: Nemotron 3.5 Lightning (free) | 1000k | text->text | yes | OpenRouter |
-| [`dots-studio/dots-3-note-preview`](https://openrouter.ai/dots-studio/dots-3-note-preview) | Dots Studio: Dots3-Note Preview (free) | 512k | text+image->text | yes | OpenRouter |
 
 ## Sources
 
 | Source | Models | What counts as free |
 | --- | --- | --- |
-| OpenRouter | 12 | aggregated free tiers, `:free` variant |
+| OpenRouter | 11 | aggregated free tiers, `:free` variant |
 | Nous Portal | 5 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-11-21` — **−1** removed
 - `2026-11-20` — **−1** removed
 - `2026-11-19` — **+1** added, **−1** removed
 - `2026-11-17` — **+1** added
@@ -56,7 +56,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-11-13` — **+1** added, **−1** removed
 - `2026-11-11` — **+1** added, **−1** removed
 - `2026-11-10` — **+1** added, **−2** removed
-- `2026-11-07` — **+1** added
 
 ## Using this
 
