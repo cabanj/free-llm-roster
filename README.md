@@ -5,9 +5,9 @@
 
 A daily-verified directory of **LLM APIs you can use for free right now** — collected from OpenRouter, Nous Portal, and OpenCode Zen, and filtered to models that are genuinely zero-cost (both prompt and completion pricing at exactly zero, or an explicitly curated free tier).
 
-[![roster](https://img.shields.io/badge/models-15-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-25-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
+[![roster](https://img.shields.io/badge/models-14-informational?style=flat-square)](#free-models) [![updated](https://img.shields.io/badge/updated-2026-11-27-informational?style=flat-square)](#free-models) [![live data](https://img.shields.io/badge/live-llmroster.dev-4f7bd4?style=flat-square)](https://llmroster.dev)
 
-**15 free models** across **3 sources**. Last roster change 2026-11-25 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
+**14 free models** across **3 sources**. Last roster change 2026-11-27 18:00 UTC — the list above is confirmed against live source metadata every day, and only changes when that changes.
 
 The models below churn constantly — providers add and drop free tiers weekly. The live site at [llmroster.dev](https://llmroster.dev) tracks additions and removals as they happen, with an [RSS feed](https://llmroster.dev/feed.xml) you can watch.
 
@@ -21,7 +21,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 | Model | Name | Context | Modalities | Tools | Free via |
 | --- | --- | --- | --- | --- | --- |
 | [`google/gemma-4-31b-it`](https://openrouter.ai/google/gemma-4-31b-it) | Google: Gemma 4 31B (free) | 262k | text+image+video->text | yes | OpenRouter |
-| [`inclusionai/ling-3.2-flash`](https://openrouter.ai/inclusionai/ling-3.2-flash) | inclusionAI: Ling 3.2 Flash (free) | 1048k | text+image->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning`](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning) | NVIDIA: Nemotron 3 Nano Omni (free) | 256k | text+image+audio+video->text | yes | OpenRouter |
 | [`nvidia/nemotron-3-ultra-550b-a55b`](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b) | NVIDIA: Nemotron 3 Ultra (free) | 1000k | text->text | yes | OpenRouter |
 | `stepfun/step-3.7-flash` | StepFun: Step 3.7 Flash (free) | 256k | text+image+video->text | yes | Nous Portal |
@@ -40,12 +39,13 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 
 | Source | Models | What counts as free |
 | --- | --- | --- |
-| OpenRouter | 11 | aggregated free tiers, `:free` variant |
+| OpenRouter | 10 | aggregated free tiers, `:free` variant |
 | Nous Portal | 3 | direct from Nous Research |
 | OpenCode Zen | 1 | curated gateway, some contributor-gated |
 
 ## Recent changes
 
+- `2026-11-27` — **−1** removed
 - `2026-11-25` — **−1** removed
 - `2026-11-24` — **−1** removed
 - `2026-11-23` — **+1** added, **−1** removed
@@ -53,7 +53,6 @@ The models below churn constantly — providers add and drop free tiers weekly. 
 - `2026-11-20` — **−1** removed
 - `2026-11-19` — **+1** added, **−1** removed
 - `2026-11-17` — **+1** added
-- `2026-11-14` — **+1** added
 
 ## Using this
 
